@@ -140,7 +140,7 @@ nav a:hover {
 .card-header {
   color: var(--light);
   background-color: var(--secondary);
-  padding: 0.625rem;
+  padding: 0.5rem;
   margin: 0;
   /* border-radius: calc(3rem - 1px) calc(3rem - 1px) 0 0; */
 }
