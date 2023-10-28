@@ -29,7 +29,7 @@ body {
   font-family: 'Karla', , Helvetica, sans-serif;
   font-weight: 300;
   color: var(--primary);
-  line-height: 1.2;
+  line-height: 1.5;
   font-size: 10px;
   background-image: url('../images/header-bg.jpg');
   background-size: cover;
