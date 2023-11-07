@@ -11,7 +11,7 @@
   --spacing-two: calc(1rem * 0.6);
   --spacing-three: 1rem;
   --spacing-four: calc(1rem * 1);
-  --spacing-five: calc(1rem * 3);
+  --spacing-five: calc(1rem * 3.5);
 }
 
 * {
